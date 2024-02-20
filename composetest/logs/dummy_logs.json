@@ -1,0 +1,1705 @@
+{"timestamp": "2024-02-16T15:46:36.477170Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:46:41.482638Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:46:46.488139Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:46:51.493875Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:46:56.499902Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:47:01.506454Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:47:06.512443Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:47:11.517896Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:47:16.523590Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:47:21.529159Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:47:26.534774Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:47:31.540278Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:47:36.546167Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:47:41.551758Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:47:46.557206Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:47:51.563167Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:47:56.568677Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:48:01.573101Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:48:06.578594Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:48:11.584246Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:48:16.590318Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:48:21.596041Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:48:26.601681Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:48:31.607410Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:48:36.613570Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:48:41.619410Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:48:46.624964Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:48:51.630500Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:48:56.636407Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:49:01.642371Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:49:06.647923Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:49:11.653304Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:49:16.659031Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:49:21.664684Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:49:26.669996Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:49:31.675359Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:49:36.681162Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:49:41.683055Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:49:46.688457Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:49:51.693110Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:49:56.698731Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:50:01.703076Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:50:06.708357Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:50:11.713849Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:50:16.719397Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:50:21.724820Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:50:26.730151Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:50:31.733110Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:50:36.738707Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:50:41.744196Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:50:46.749881Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:50:51.755247Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:50:56.760650Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:51:01.766247Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:51:06.771857Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:51:11.777501Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:51:16.782882Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:51:21.788187Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:51:26.793459Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:51:31.799042Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:51:36.804835Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:51:41.810214Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:51:46.813107Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:51:51.818519Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:51:56.823876Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:52:01.829299Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:52:06.834841Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:52:11.840238Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:52:16.845701Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:52:21.851794Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:52:26.857635Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:52:31.863253Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:52:36.868869Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:52:41.874470Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:52:46.879750Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:52:51.885024Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:52:56.890562Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:53:01.893054Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:53:06.898671Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:53:11.904074Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:53:16.909880Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:53:21.915481Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:53:26.920802Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:53:31.926170Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:53:36.931719Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:53:41.937074Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:53:46.940256Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:53:51.943073Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:53:56.948449Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:54:01.953080Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:54:06.958466Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:54:11.963791Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:54:16.969279Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:54:21.975022Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:54:26.980678Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:54:31.981941Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:54:36.987834Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:54:41.992606Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:54:46.997959Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:54:52.003438Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:54:57.009122Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:55:02.014643Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:55:07.020051Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:55:12.025326Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:55:17.030710Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:55:22.036115Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:55:27.041519Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:55:32.046941Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:55:37.052388Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:55:42.057883Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:55:47.063348Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:55:52.068927Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:55:57.074536Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:56:02.080099Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:56:07.085577Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:56:12.091051Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:56:17.096407Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:56:22.102071Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:56:27.105607Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:56:32.111130Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:56:37.116715Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:56:42.122266Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:56:47.127871Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:56:52.133479Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:56:57.139031Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:57:02.144342Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:57:07.145753Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:57:12.151425Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:57:17.156710Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:57:22.162303Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:57:27.167999Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:57:32.173519Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:57:37.179095Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:57:42.183069Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:57:47.188438Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:57:52.193957Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:57:57.199712Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:58:02.205005Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:58:07.210404Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:58:12.215737Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:58:17.221059Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:58:22.226470Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:58:27.232272Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:58:32.237570Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:58:37.243423Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:58:42.249306Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:58:47.255255Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:58:52.260856Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:58:57.266677Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:59:02.272075Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:59:07.273101Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:59:12.278536Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:59:17.283958Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:59:22.289715Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:59:27.295058Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:59:32.300593Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:59:37.303729Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:59:42.309727Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T15:59:47.315314Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T15:59:52.320761Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T15:59:57.323095Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:00:02.328422Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:00:07.333733Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:00:12.339095Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:00:17.344662Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:00:22.350203Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:00:27.355850Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:00:32.361266Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:00:37.366732Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:00:42.372708Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:00:47.378574Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:00:52.384332Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:00:57.390139Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:01:02.393159Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:01:07.398878Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:01:12.404883Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:01:17.411135Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:01:22.414845Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:01:27.420927Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:01:32.427057Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:01:37.433098Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:01:42.439085Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:01:47.443604Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:01:52.449458Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:01:57.455604Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:02:02.461707Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:02:07.463229Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:02:12.468532Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:02:17.474283Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:02:22.480407Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:02:27.486263Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:02:32.492024Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:02:37.498204Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:02:42.504179Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:02:47.510109Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:02:52.516028Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:02:57.522156Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:03:02.527644Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:03:07.533363Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:03:12.536273Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:03:17.542162Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:03:22.547857Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:03:27.553657Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:03:32.559972Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:03:37.565853Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:03:42.571882Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:03:47.577795Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:03:52.583732Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:03:57.589652Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:04:02.595488Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:04:07.603728Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:04:12.609875Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:04:17.618033Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:04:22.623960Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:04:27.632670Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:04:32.647809Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:04:37.656475Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:04:42.663543Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:04:47.674367Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:04:52.680940Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:04:57.737920Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:05:02.745441Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:05:07.748811Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:05:12.751873Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:05:17.758280Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:05:22.766034Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:05:27.772624Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:05:32.780514Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:05:37.784070Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:05:42.790543Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:05:47.800109Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:05:52.810610Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:05:57.813888Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:06:02.820348Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:06:07.827157Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:06:12.829621Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:06:17.836346Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:06:22.848082Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:06:27.857512Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:06:32.864995Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-16T16:06:37.871552Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-16T16:06:42.874133Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-16T16:06:47.882829Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:03:24.760440Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:03:29.765317Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:03:34.769937Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:03:39.776036Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:03:44.781500Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:03:49.787228Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:03:54.792941Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:03:59.798442Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:04:04.803920Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:04:09.809215Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:04:14.814561Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:04:19.819936Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:04:24.825296Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:04:29.830772Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:04:34.836484Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:04:39.842232Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:04:44.847995Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:04:49.853783Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:04:54.855573Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:04:59.861755Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:05:04.868296Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:05:09.874921Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:05:14.878829Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:05:19.885053Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:05:24.887965Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:05:29.892714Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:05:34.897056Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:05:39.901637Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:05:44.906364Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:05:49.910317Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:05:54.914417Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:05:59.919349Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:06:04.923832Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:06:09.925783Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:06:14.927329Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:06:19.931930Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:06:24.937469Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:06:29.943004Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:06:34.949215Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:06:39.954982Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:06:44.961106Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:06:49.967056Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:06:54.973078Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:06:59.979193Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:07:04.985653Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:07:09.991695Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:07:14.997895Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:07:20.003930Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:07:25.009893Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:07:30.016103Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:07:35.022302Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:07:40.028204Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:07:45.034578Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:07:50.040854Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:07:55.047035Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:08:00.053069Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:08:05.059155Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:08:10.064098Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:08:15.065288Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:08:20.071011Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:08:25.076862Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:08:30.082630Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:08:35.088734Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:08:40.094808Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:08:45.100655Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:08:50.105715Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:08:55.111361Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:09:00.115472Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:09:05.121609Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:09:10.127534Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:09:15.133396Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:09:20.139760Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:09:25.146032Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:09:30.152075Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:09:35.155438Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:09:40.161231Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:09:45.166764Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:09:50.172290Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:09:55.178140Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:10:00.183790Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:10:05.189625Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:10:10.195312Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:10:15.201219Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:10:20.207924Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:10:25.213897Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:10:30.215462Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:10:35.221432Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:10:40.227336Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:10:45.233336Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:10:50.239190Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:10:55.245317Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:11:00.251428Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:11:05.255363Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:11:10.261213Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:11:15.267570Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:11:20.273537Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:11:25.279233Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:11:30.284828Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:11:35.286469Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:11:40.292765Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:11:45.298615Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:11:50.304628Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:11:55.310963Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:12:00.317220Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:12:05.324588Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:12:10.330758Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:12:15.336599Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:12:20.342727Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:12:25.348825Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:12:30.354789Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:12:35.358782Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:12:40.364870Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:12:45.371037Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:12:50.375290Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:12:55.381018Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:13:00.387017Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:13:05.392898Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:13:10.398943Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:13:15.404958Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:13:20.410939Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:13:25.415391Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:13:30.421288Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:13:35.427251Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:13:40.433114Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:13:45.439135Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:13:50.445080Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:13:55.450864Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:14:00.455300Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:14:05.460769Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:14:10.465332Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:14:15.469316Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:14:20.475133Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:14:25.482477Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:14:30.489366Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:14:35.495113Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:14:40.501484Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:14:45.507774Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:14:50.513684Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:14:55.519290Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:15:00.524723Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:15:05.530292Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:15:10.535801Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:15:15.541463Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:15:20.547055Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:15:25.553170Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:15:30.559119Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:15:35.565368Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:15:40.571038Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:15:45.577041Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:15:50.582983Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:15:55.588598Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:16:00.594016Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:16:05.599766Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:16:10.605541Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:16:15.611184Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:16:20.617095Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:16:25.622816Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:16:30.628731Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:16:35.634865Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:16:40.640897Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:16:45.646791Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:16:50.652768Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:16:55.658749Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:17:00.660602Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:17:05.666040Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:17:10.671482Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:17:15.676941Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:17:20.682649Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:17:25.688269Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:17:30.693870Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:17:35.696136Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:17:40.702119Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:17:45.708182Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:17:50.713964Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:17:55.719865Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:18:00.725508Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:18:05.731561Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:18:10.737517Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:18:15.743381Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:18:20.749263Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:18:25.755361Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:18:30.761262Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:18:35.767101Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:18:40.772823Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:18:45.779122Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:18:50.785531Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:18:55.791425Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:19:00.797371Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:19:05.803431Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:19:10.809513Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:19:15.815378Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:19:20.820847Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:19:25.826552Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:19:30.832338Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:19:35.838223Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:19:40.844091Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:19:45.845810Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:19:50.853532Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:19:55.855388Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:20:00.861341Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:20:05.866861Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:20:10.872778Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:20:15.878733Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:20:20.884806Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:20:25.890608Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:20:30.896177Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:20:35.901529Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:20:40.907097Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:20:45.912756Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:20:50.918297Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:20:55.924065Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:21:00.929692Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:21:05.935382Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:21:10.936785Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:21:15.942734Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:21:20.948545Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:21:25.956746Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:21:30.962468Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:21:35.968077Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:21:40.973841Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:21:45.979700Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:21:50.985567Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:21:55.991353Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:22:00.997150Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:22:06.002919Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:22:11.008851Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:22:16.014920Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:22:21.021562Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:22:26.025499Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:22:31.031724Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:22:36.035833Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:22:41.041834Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:22:46.047734Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:22:51.053648Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:22:56.059683Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:23:01.065401Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:23:06.071346Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:23:11.075888Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:23:16.081848Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:23:21.085308Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:23:26.090810Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:23:31.096241Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:23:36.102249Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:23:41.105379Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:23:46.112036Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:23:51.115577Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:23:56.121508Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:24:01.127242Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:24:06.133112Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:24:11.139691Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:24:16.145378Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:24:21.151483Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:24:26.155840Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:24:31.161796Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:24:36.167898Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:24:41.174255Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:24:46.180324Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:24:51.186623Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:24:56.192718Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:25:01.199412Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:25:06.205456Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:25:11.211323Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:25:16.217384Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:25:21.223560Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:25:26.229781Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:25:31.235791Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:25:36.241774Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:25:41.248176Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:25:46.253921Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:25:51.259756Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:25:56.265835Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:26:01.271841Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:26:06.277756Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:26:11.283769Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:26:16.289906Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:26:21.295720Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:26:26.301528Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:26:31.307428Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:26:36.313347Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:26:41.319245Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:26:46.325302Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:26:51.331186Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:26:56.335405Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:27:01.341303Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:27:06.347431Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:27:11.353402Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:27:16.359434Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:27:21.363642Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:27:26.369592Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:27:31.375389Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:27:36.381303Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:27:41.387611Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:27:46.391206Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:27:51.397054Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:27:56.403023Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:28:01.409027Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:28:06.415301Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:28:11.421546Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:28:16.425631Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:28:21.432102Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:28:26.435437Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:28:31.441464Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:28:36.447744Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:28:41.453736Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:28:46.459696Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:28:51.465723Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:28:56.471587Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:29:01.477446Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:29:06.483411Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:29:11.489335Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:29:16.495402Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:29:21.501747Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:29:26.505844Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:29:31.511978Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:29:36.515240Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:29:41.520621Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:29:46.526126Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:29:51.531635Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:29:56.537148Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:30:01.542584Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:30:06.548356Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:30:11.554004Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:30:16.559703Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:30:21.565380Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:30:26.571157Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:30:31.572062Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:30:36.575453Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:30:41.581298Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:30:46.587373Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:30:51.593244Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:30:56.598927Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:31:01.604445Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:31:06.610017Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:31:11.615676Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:31:16.621266Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:31:21.625444Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:31:26.627917Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:31:31.633394Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:31:36.638967Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:31:41.644560Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:31:46.650249Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:31:51.655992Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:31:56.661771Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:32:01.667341Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:32:06.673060Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:32:11.678696Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:32:16.684259Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:32:21.689766Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:32:26.695512Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:32:31.701534Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:32:36.707580Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:32:41.713569Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:32:46.715457Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:32:51.721582Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:32:56.723864Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:33:01.729872Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:33:06.735827Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:33:11.742294Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:33:16.748672Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:33:21.754554Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:33:26.760601Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:33:31.766770Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:33:36.773190Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:33:41.779108Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:33:46.785253Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:33:51.791393Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:33:56.795535Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:34:01.801789Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:34:06.808015Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:34:11.814349Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:34:16.820416Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:34:21.825417Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:34:26.831648Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:34:31.835567Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:34:36.841940Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:34:41.845673Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:34:46.852012Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:34:51.855376Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:34:56.861617Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:35:01.868170Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:35:06.874152Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:35:11.880253Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:35:16.886300Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:35:21.892289Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:35:26.898551Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:35:31.904632Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:35:36.910605Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:35:41.916379Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:35:46.921903Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:35:51.927942Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:35:56.932701Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:36:01.938633Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:36:06.944992Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:36:11.950676Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:36:16.956739Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:36:21.962752Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:36:26.965312Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:36:31.971316Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:36:36.975289Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:36:41.981151Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:36:46.987481Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:36:51.993915Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:36:57.000279Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:37:02.005467Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:37:07.011486Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:37:12.017500Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:37:17.023496Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:37:22.025635Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:37:27.031163Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:37:32.037151Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:37:37.043195Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:37:42.049098Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:37:47.054943Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:37:52.061372Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:37:57.062828Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:38:02.068904Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:38:07.075118Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:38:12.081592Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:38:17.087666Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:38:22.093697Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:38:27.099695Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:38:32.105601Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:38:37.111509Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:38:42.117572Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:38:47.123529Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:38:52.129838Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:38:57.135920Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:39:02.142355Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:39:07.148493Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:39:12.154594Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:39:17.160736Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:39:22.162867Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:39:27.166092Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:39:32.172050Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:39:37.178034Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:39:42.184497Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:39:47.190314Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:39:52.196205Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:39:57.202609Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:40:02.208753Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:40:07.214882Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:40:12.220863Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:40:17.226778Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:40:22.232680Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:40:27.238634Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:40:32.244697Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:40:37.250724Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:40:42.256491Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:40:47.262395Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:40:52.265539Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:40:57.271386Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:41:02.275273Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:41:07.280841Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:41:12.286774Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:41:17.292711Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:41:22.298698Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:41:27.304704Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:41:32.310780Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:41:37.316812Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:41:42.323130Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:41:47.325585Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:41:52.331782Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:41:57.337768Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:42:02.343986Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:42:07.349998Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:42:12.355388Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:42:17.361251Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:42:22.367149Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:42:27.373051Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:42:32.375503Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:42:37.381440Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:42:42.387677Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:42:47.393581Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:42:52.399554Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:42:57.405825Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:43:02.411904Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:43:07.413301Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:43:12.419231Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:43:17.425667Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:43:22.431962Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:43:27.437902Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:43:32.443981Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:43:37.450014Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:43:42.455819Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:43:47.461897Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:43:52.467989Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:43:57.473977Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:44:02.480171Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:44:07.485441Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:44:12.491333Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:44:17.497105Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:44:22.503005Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:44:27.508875Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:44:32.514860Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:44:37.520791Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:44:42.526812Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:44:47.532688Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:44:52.538727Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:44:57.544686Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:45:02.551176Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:45:07.557210Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:45:12.573196Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:45:17.579202Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:45:22.585762Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:45:27.591879Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:45:32.597877Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:45:37.603855Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:45:42.608152Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:45:47.614282Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:45:52.619912Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:45:57.625424Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:46:02.631665Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:46:07.637446Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:46:12.642077Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:46:17.648430Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:46:22.655029Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:46:27.661631Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:46:32.664955Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:46:37.671162Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:46:42.677491Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:46:47.683708Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:46:52.689594Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:46:57.695883Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:47:02.702135Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:47:07.708105Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:47:12.714163Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:47:17.715504Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:47:22.721646Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:47:27.727668Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:47:32.732706Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:47:37.738655Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:47:42.744504Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:47:47.747604Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:47:52.751173Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:47:57.757109Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:48:02.763067Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:48:07.769405Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:48:12.775359Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:48:17.781166Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:48:22.785425Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:48:27.791625Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:48:32.797926Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:48:37.799141Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:48:42.805706Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:48:47.811678Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:48:52.817752Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:48:57.823763Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:49:02.829766Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:49:07.835990Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:49:12.842081Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:49:17.845514Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:49:22.851231Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:49:27.855320Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:49:32.860932Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:49:37.866587Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:49:42.872510Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:49:47.878315Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:49:52.884626Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:49:57.885423Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:50:02.891154Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:50:07.895623Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:50:12.901491Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:50:17.907578Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:50:22.913663Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:50:27.920360Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:50:32.925428Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:50:37.931117Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:50:42.937441Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:50:47.943422Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:50:52.949270Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:50:57.955614Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:51:02.962216Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:51:07.965939Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:51:12.972172Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:51:17.975853Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:51:22.981872Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:51:27.988182Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:51:32.994519Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:51:38.000180Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:51:43.005659Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:51:48.011279Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:51:53.017180Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:51:58.023156Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:52:03.028971Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:52:08.034490Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:52:13.040254Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:52:18.046062Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:52:23.052084Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:52:28.057902Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:52:33.063677Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:52:38.069434Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:52:43.075300Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:52:48.081182Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:52:53.087213Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:52:58.093263Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:53:03.094736Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:53:08.100795Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:53:13.105672Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:53:18.111604Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:53:23.117342Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:53:28.118329Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:53:33.124140Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:53:38.130468Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:53:43.135508Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:53:48.141356Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:53:53.145399Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:53:58.151268Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:54:03.157406Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:54:08.163268Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:54:13.165398Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:54:18.171301Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:54:23.175570Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:54:28.181673Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:54:33.185360Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:54:38.191466Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:54:43.197607Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:54:48.201208Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:54:53.207178Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:54:58.213679Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:55:03.219517Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:55:08.225603Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:55:13.231563Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:55:18.235407Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:55:23.241445Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:55:28.245669Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:55:33.251662Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:55:38.257708Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:55:43.263652Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:55:48.269545Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:55:53.275577Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:55:58.281598Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:56:03.286111Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:56:08.292540Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:56:13.298796Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:56:18.304941Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:56:23.311316Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:56:28.317301Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:56:33.323307Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:56:38.329419Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:56:43.334012Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:56:48.340197Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:56:53.346208Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:56:58.352419Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:57:03.358543Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:57:08.364803Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:57:13.370703Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:57:18.375408Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:57:23.381388Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:57:28.387218Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:57:33.393136Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:57:38.399010Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:57:43.404407Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:57:48.405267Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:57:53.410748Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:57:58.416476Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:58:03.422092Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:58:08.428097Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:58:13.434233Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:58:18.440484Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:58:23.445485Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:58:28.451398Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:58:33.457391Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:58:38.463550Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:58:43.469718Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:58:48.475951Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:58:53.482168Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:58:58.488317Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:59:03.494508Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:59:08.500502Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:59:13.505589Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:59:18.511565Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:59:23.517369Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:59:28.523570Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:59:33.524564Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:59:38.530469Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:59:43.535424Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T14:59:48.536993Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T14:59:53.543152Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T14:59:58.549119Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:00:03.555009Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:00:08.561494Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:00:13.567679Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:00:18.573649Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:00:23.579581Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:00:28.585445Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:00:33.591417Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:00:38.597351Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:00:43.603308Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:00:48.605777Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:00:53.611876Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:00:58.615599Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:01:03.621597Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:01:08.627417Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:01:13.633906Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:01:18.639925Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:01:23.645857Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:01:28.651813Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:01:33.655747Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:01:38.661775Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:01:43.665384Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:01:48.670901Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:01:53.676790Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:01:58.682996Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:02:03.688823Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:02:08.694708Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:02:13.700889Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:02:18.707111Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:02:23.713083Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:02:28.718006Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:02:33.723904Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:02:38.729812Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:02:43.735402Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:02:48.741363Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:02:53.746874Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:02:58.750596Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:03:03.756707Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:03:08.762625Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:03:13.768833Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:03:18.774633Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:03:23.780169Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:03:28.785832Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:03:33.791506Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:03:38.797506Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:03:43.803322Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:03:48.808974Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:03:53.814588Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:03:58.820367Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:04:03.826078Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:04:08.832053Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:04:13.838129Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:04:18.844013Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:04:23.850098Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:04:28.856015Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:04:33.862303Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:04:38.868398Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:04:43.874217Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:04:48.880293Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:04:53.885433Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:04:58.891118Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:05:03.895416Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:05:08.901403Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:05:13.907302Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:05:18.909360Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:05:23.914861Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:05:28.921148Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:05:33.927255Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:05:38.933338Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:05:43.939209Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:05:48.945105Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:05:53.951446Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:05:58.955403Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:06:03.961445Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:06:08.967614Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:06:13.973535Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:06:18.979390Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:06:23.985305Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:06:28.991550Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:06:33.997894Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:06:39.003790Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:06:44.005379Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:06:49.011707Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:06:54.017738Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:06:59.023773Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:07:04.026066Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:07:09.031974Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:07:14.037717Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:07:19.043339Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:07:24.049333Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:07:29.055550Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:07:34.061337Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:07:39.067749Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:07:44.073801Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:07:49.080291Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:07:54.086199Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:07:59.092302Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:08:04.098496Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:08:09.104608Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:08:14.110613Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:08:19.115498Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:08:24.122706Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:08:29.133823Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:08:34.144301Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:08:39.152805Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:08:44.158914Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:08:49.164812Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:08:54.170747Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:08:59.175515Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:09:04.181453Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:09:09.187355Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:09:14.193754Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:09:19.195843Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:09:24.197011Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:09:29.202973Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:09:34.209147Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:09:39.215032Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:09:44.221035Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:09:49.225500Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:09:54.230577Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:09:59.236405Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:10:04.242301Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:10:09.248085Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:10:14.253944Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:10:19.260059Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:10:24.265876Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:10:29.272033Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:10:34.278419Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:10:39.281003Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:10:44.286804Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:10:49.292656Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:10:54.295450Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:10:59.301476Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:11:04.307332Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:11:09.313179Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:11:14.318787Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:11:19.324677Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:11:24.330826Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:11:29.336404Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:11:34.342286Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:11:39.348081Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:11:44.353640Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:11:49.359389Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:11:54.364877Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:11:59.370961Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:12:04.376972Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:12:09.383470Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:12:14.389524Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:12:19.395377Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:12:24.401251Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:12:29.405377Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:12:34.411353Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:12:39.417308Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:12:44.423185Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:12:49.429111Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:12:54.434273Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:12:59.440216Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:13:04.446082Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:13:09.452133Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:13:14.458079Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:13:19.464170Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:13:24.465406Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:13:29.471197Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:13:34.476844Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:13:39.482954Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:13:44.488968Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:13:49.495096Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:13:54.501116Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:13:59.506900Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:14:04.512858Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:14:09.518653Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:14:14.524660Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:14:19.525731Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:14:24.531917Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:14:29.537849Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:14:34.543936Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:14:39.549867Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:14:44.550982Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:14:49.556811Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:14:54.562735Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:14:59.568853Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:15:04.574805Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:15:09.581163Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:15:14.587078Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:15:19.590392Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:15:24.596100Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:15:29.601999Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:15:34.607997Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:15:39.613887Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:15:44.620087Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:15:49.625945Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:15:54.631972Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:15:59.637931Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:16:04.644340Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:16:09.650182Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:16:14.655954Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:16:19.661811Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:16:24.667895Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:16:29.674149Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:16:34.680354Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:16:39.686707Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:16:44.692570Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:16:49.698457Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:16:54.704498Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:16:59.710310Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:17:04.715454Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:17:09.721316Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:17:14.725411Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:17:19.731502Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:17:24.735453Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:17:29.741223Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:17:34.745563Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:17:39.748734Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:17:44.754598Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:17:49.760734Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:17:54.766782Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:17:59.772805Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:18:04.778699Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:18:09.784660Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:18:14.790940Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:18:19.796761Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:18:24.802740Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:18:29.805490Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:18:34.811478Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:18:39.817401Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:18:44.823388Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:18:49.829265Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:18:54.835230Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:18:59.841033Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:19:04.847055Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:19:09.852853Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:19:14.858830Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:19:19.865229Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:19:24.871412Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:19:29.877593Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:19:34.883370Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:19:39.889720Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:19:44.895699Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:19:49.901156Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:19:54.907093Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:19:59.912839Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:20:04.919097Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:20:09.925123Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:20:14.931426Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:20:19.937241Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:20:24.943155Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:20:29.949116Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:20:34.955500Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:20:39.961211Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:20:44.966812Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:20:49.971497Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:20:54.977486Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:20:59.983360Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:21:04.989404Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:21:09.995379Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:21:15.001435Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:21:20.006967Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:21:25.012530Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:21:30.015502Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:21:35.021439Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:21:40.027430Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:21:45.028999Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:21:50.035566Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:21:55.041726Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:22:00.047634Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:22:05.054015Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:22:10.059934Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:22:15.066001Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:22:20.072429Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:22:25.078466Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:22:30.084633Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:22:35.090605Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:22:40.096689Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:22:45.102730Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:22:50.108796Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:22:55.114742Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:23:00.120924Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:23:05.126870Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:23:10.132800Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:23:15.138596Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:23:20.144842Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:23:25.151482Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:23:30.157515Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:23:35.163910Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:23:40.169985Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:23:45.175856Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:23:50.179142Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:23:55.185199Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:24:00.191254Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:24:05.195370Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:24:10.201374Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:24:15.207421Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:24:20.213246Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:24:25.219403Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:24:30.220799Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:24:35.226757Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:24:40.232877Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:24:45.238919Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:24:50.244910Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:24:55.250834Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:25:00.255442Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:25:05.261488Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:25:10.265501Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:25:15.271530Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:25:20.277342Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:25:25.283247Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:25:30.289222Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:25:35.295689Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:25:40.301380Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:25:45.306110Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:25:50.312027Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:25:55.318376Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:26:00.324606Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:26:05.327676Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:26:10.333486Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:26:15.338992Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:26:20.344880Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:26:25.350919Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:26:30.356799Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:26:35.362809Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:26:40.368926Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:26:45.374853Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:26:50.380937Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:26:55.386827Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:27:00.392932Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:27:05.395535Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:27:10.401366Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:27:15.407287Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:27:20.413386Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:27:25.419350Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:27:30.425271Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:27:35.430775Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:27:40.436607Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:27:45.442563Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:27:50.448445Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:27:55.454366Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:28:00.460641Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:28:05.466660Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:28:10.472503Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:28:15.475492Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:28:20.482365Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:28:25.488636Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:28:30.492969Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:28:35.499019Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:28:40.504827Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:28:45.505922Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:28:50.511802Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:28:55.517804Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:29:00.523652Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:29:05.529545Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:29:10.535630Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:29:15.541553Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:29:20.547654Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:29:25.553617Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:29:30.559430Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:29:35.565318Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:29:40.571303Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:29:45.575647Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:29:50.581711Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:29:55.587680Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:30:00.593640Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:30:05.599925Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:30:10.605971Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:30:15.611804Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:30:20.617849Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:30:25.623589Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:30:30.628933Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:30:35.634528Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:30:40.635393Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:30:45.641218Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:30:50.647212Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:30:55.653091Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:31:00.659069Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:31:05.665210Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:31:10.671229Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:31:15.677161Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:31:20.683076Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:31:25.689084Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:31:30.694595Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:31:35.700568Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:31:40.705258Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:31:45.710957Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:31:50.717004Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:31:55.722909Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:32:00.728846Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:32:05.730308Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:32:10.736372Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:32:15.742318Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:32:20.746312Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:32:25.752233Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:32:30.758278Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:32:35.764130Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:32:40.770289Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:32:45.776177Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:32:50.782062Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:32:55.785431Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:33:00.791340Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:33:05.797394Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:33:10.803619Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:33:15.809557Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:33:20.815407Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:33:25.821320Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:33:30.822933Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:33:35.825374Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:33:40.831401Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:33:45.837635Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:33:50.841233Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:33:55.847075Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:34:00.852877Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:34:05.858894Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:34:10.864935Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:34:15.870961Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:34:20.876877Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:34:25.883209Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:34:30.889082Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:34:35.894950Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:34:40.901057Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:34:45.907169Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:34:50.913158Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:34:55.918962Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:35:00.924862Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:35:05.930940Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:35:10.936699Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:35:15.942509Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:35:20.948615Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:35:25.954520Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:35:30.960879Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:35:35.965399Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:35:40.971330Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:35:45.977199Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:35:50.983395Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:35:55.989243Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:36:00.995311Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:36:06.001150Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:36:11.007112Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:36:16.012825Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:36:21.018736Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:36:26.024628Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:36:31.030556Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:36:36.036433Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:36:41.042420Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:36:46.048539Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:36:51.054782Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:36:56.060832Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:37:01.066692Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:37:06.072731Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:37:11.078502Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:37:16.083953Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:37:21.089973Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:37:26.095985Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:37:31.101976Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:37:36.107851Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:37:41.113506Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:37:46.119628Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:37:51.126086Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:37:56.132119Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:38:01.138422Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:38:06.144452Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:38:11.150226Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:38:16.155828Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:38:21.161892Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:38:26.168117Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:38:31.174007Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:38:36.179903Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:38:41.185740Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:38:46.191650Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:38:51.197623Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:38:56.204124Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:39:01.205513Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:39:06.211724Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:39:11.217640Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:39:16.223807Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:39:21.230007Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:39:26.235879Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:39:31.241649Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:39:36.247650Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:39:41.253475Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:39:46.255477Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:39:51.261246Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:39:56.267086Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:40:01.273090Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:40:06.279150Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:40:11.285008Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:40:16.291254Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:40:21.297432Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:40:26.303412Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:40:31.305600Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:40:36.311885Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:40:41.317852Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:40:46.324041Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:40:51.329999Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:40:56.335858Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:41:01.341632Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:41:06.347855Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:41:11.353955Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:41:16.359791Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:41:21.365862Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:41:26.372177Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:41:31.378406Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:41:36.384681Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:41:41.390834Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:41:46.396877Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:41:51.402808Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:41:56.405449Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:42:01.411457Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:42:06.415536Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:42:11.421858Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:42:16.427897Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:42:21.434119Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:42:26.440352Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:42:31.446236Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:42:36.452294Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:42:41.456292Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:42:46.457730Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:42:51.463843Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:42:56.470024Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:43:01.475975Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:43:06.482022Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:43:11.487998Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:43:16.494507Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:43:21.500751Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:43:26.507135Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:43:31.513149Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:43:36.519171Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:43:41.525374Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:43:46.531239Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:43:51.537180Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:43:56.543228Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:44:01.545774Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:44:06.551719Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:44:11.555565Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:44:16.561559Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:44:21.565421Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:44:26.571446Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:44:31.578047Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:44:36.584050Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:44:41.589913Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:44:46.595853Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:44:51.601665Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:44:56.607700Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:45:01.613937Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:45:06.615421Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:45:11.621366Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:45:16.627319Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:45:21.633168Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:45:26.639195Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:45:31.645304Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:45:36.651972Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:45:41.658454Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:45:46.664327Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:45:51.670284Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:45:56.675748Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:46:01.681840Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:46:06.685474Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:46:11.687930Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:46:16.693924Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:46:21.699913Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:46:26.705889Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:46:31.711777Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:46:36.717731Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:46:41.723609Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:46:46.729636Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:46:51.735419Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:46:56.741532Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:47:01.747553Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:47:06.753630Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:47:11.759973Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:47:16.766145Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:47:21.772165Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:47:26.778169Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:47:31.784001Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:47:36.785828Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:47:41.791846Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:47:46.797662Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:47:51.803672Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:47:56.809988Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:48:01.816057Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:48:06.821841Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:48:11.827386Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:48:16.833295Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:48:21.839021Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:48:27.910815Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:48:32.917556Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:48:37.923722Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:48:42.929660Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:48:47.935511Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:48:52.941609Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:48:57.947463Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:49:02.953572Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:49:07.955787Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:49:12.961775Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:49:17.965383Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:49:22.971540Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:49:27.978277Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:49:32.984118Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:49:37.990019Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:49:42.995868Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:49:48.002104Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:49:53.008112Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:49:58.013948Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:50:03.020078Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:50:08.025923Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:50:13.032050Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:50:18.035383Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:50:23.041316Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:50:28.047158Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:50:33.053129Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:50:38.059056Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:50:43.065073Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:50:48.071191Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:50:53.077342Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:50:58.083581Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:51:03.089721Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:51:08.095989Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:51:13.102110Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:51:18.108007Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:51:23.113700Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:51:28.119916Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:51:33.125920Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:51:38.131894Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:51:43.137790Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:51:48.143796Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:51:53.150020Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:51:58.155970Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:52:03.161824Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:52:08.165376Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:52:13.171713Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:52:18.178006Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:52:23.184002Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:52:28.189893Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:52:33.195769Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:52:38.201784Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:52:43.207613Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:52:48.213746Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:52:53.219731Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:52:58.221922Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:53:03.228104Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:53:08.234171Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:53:13.240265Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:53:18.246216Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:53:23.252330Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:53:28.258213Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:53:33.264108Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:53:38.270289Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:53:43.276219Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:53:48.282509Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:53:53.288373Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:53:58.294286Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:54:03.300223Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:54:08.305404Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:54:13.311693Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:54:18.317752Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:54:23.323621Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:54:28.329644Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:54:33.335719Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:54:38.336801Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:54:43.342721Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:54:48.348784Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:54:53.354637Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:54:58.360610Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:55:03.366947Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:55:08.373132Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:55:13.374482Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:55:18.380512Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:55:23.386518Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:55:28.392645Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:55:33.398730Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:55:38.404971Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:55:43.411024Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:55:48.417224Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:55:53.423255Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:55:58.429200Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:56:03.435462Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:56:08.441213Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:56:13.446749Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:56:18.452404Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:56:23.456431Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:56:28.462353Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:56:33.468328Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:56:38.474217Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:56:43.475539Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:56:48.481430Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:56:53.487397Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:56:58.493144Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:57:03.498848Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:57:08.504823Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:57:13.511002Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:57:18.516798Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:57:23.522729Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:57:28.529092Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:57:33.535276Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:57:38.541237Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:57:43.547088Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:57:48.553280Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:57:53.559436Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:57:58.565432Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:58:03.571328Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:58:08.577193Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:58:13.583127Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:58:18.589434Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:58:23.595333Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:58:28.601199Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:58:33.607009Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:58:38.612922Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:58:43.618832Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:58:48.625048Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:58:53.631056Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:58:58.637020Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:59:03.643026Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:59:08.648846Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:59:13.654693Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:59:18.660891Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:59:23.666781Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:59:28.672603Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:59:33.678559Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:59:38.684512Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:59:43.690424Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T15:59:48.696212Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T15:59:53.698685Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T15:59:58.704808Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:00:03.705985Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:00:08.711760Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:00:13.716047Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:00:18.721934Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:00:23.727871Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:00:28.734000Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:00:33.739854Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:00:38.745451Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:00:43.751339Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:00:48.757080Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:00:53.762900Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:00:58.768534Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:01:03.774531Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:01:08.780899Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:01:13.786843Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:01:18.792562Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:01:23.798415Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:01:28.804522Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:01:33.810617Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:01:38.816566Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:01:43.822445Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:01:48.828321Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:01:53.832273Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:01:58.838145Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:02:03.844269Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:02:08.850275Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:02:13.856261Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:02:18.862294Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:02:23.868290Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:02:28.874232Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:02:33.880194Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:02:38.886113Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:02:43.892467Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:02:48.898365Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:02:53.904239Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:02:58.908948Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:03:03.914976Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:03:08.920879Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:03:13.926939Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:03:18.932635Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:03:23.938136Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:03:28.944182Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-19T16:03:33.950109Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-19T16:03:38.956363Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-19T16:03:43.962289Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:03:29.732474Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-20T17:03:34.742494Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:03:39.748768Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-20T17:03:44.768294Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-20T17:03:49.779787Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:03:54.787236Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-20T17:03:59.791111Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-20T17:04:04.800728Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:04:09.807567Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-20T17:04:14.816330Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-20T17:04:19.824748Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:04:24.828368Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-20T17:04:29.838123Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-20T17:04:34.857826Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:04:39.870528Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-20T17:04:44.876925Z", "message": "Aviso de parada de emergencia", "level": "info"}
+{"timestamp": "2024-02-20T17:04:49.884027Z", "message": "Advertencia de memoria baja", "level": "warn"}
+{"timestamp": "2024-02-20T17:04:54.887126Z", "message": "Error en la aplicacion XYZ", "level": "error"}
+{"timestamp": "2024-02-20T17:04:59.888855Z", "message": "Aviso de parada de emergencia", "level": "info"}
